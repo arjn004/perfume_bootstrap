@@ -1,0 +1,103 @@
+#title{
+    background-color: lightpink;
+}
+h1{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Tiro Telugu', serif;
+    font-size: 64px;
+    line-height: 1.5;
+    color: orangered;
+}
+.container-fluid{
+    padding : 3% 10%; 
+}
+.naviiii{
+    background-color: lightpink;
+}
+.naviii{
+    font-size: 60px;
+}
+.navbar{
+    padding-bottom : 4.5rem;
+}
+.nav-item{
+    padding-left : 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.download-button{
+    margin: 8% 3% 5% 0;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+#features{
+    padding: 80px 50px 80px 50px;
+}
+h3{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Tiro Telugu', serif;
+    font-size: 35px;
+}
+.subsss{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Tiro Telugu', serif;
+    color: grey;
+}
+h2{
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Tiro Telugu', serif;
+    font-size: 40px;
+    color: orangered;
+}
+.icon{
+    color: lightpink;
+    margin-bottom: 20px;
+}
+.icon:hover{
+    color: orangered;
+}
+#testimonials{
+    padding: 80px 50px 80px 50px;
+    text-align: center;
+    background-color: lightpink;
+}
+.testimonialimage{
+    width: 25%;
+    margin: 20px;
+}
+.mememe{
+    border: 1px black;
+    padding-left: 540px;
+}
+.heater{
+    text-align: center;
+    color : blue;
+}
+.card{
+    margin: 0 450px 20px 450px;
+}
+.futter{
+    color:white;
+    background-color: black;
+}
+.futter li a{
+    text-decoration: None;
+    color: white;
+}
+.futter li{
+    text-decoration: none;
+    list-style: none;
+}
+.localh2{
+    text-align: center;
+    font-size: 35px;
+}
+.coin{
+    color: black;
+}
